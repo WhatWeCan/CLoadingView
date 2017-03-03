@@ -1,0 +1,13 @@
+<resources>
+
+    <declare-styleable name="CLoadingView">
+        <attr name="ringWidth" format="dimension|reference" />
+        <attr name="ringBackColor" format="color|reference" />
+        <attr name="ringForeColor" format="color|reference" />
+        <attr name="progressTxtSize" format="dimension|reference" />
+        <attr name="progressTxtColor" format="color|reference" />
+        <attr name="duration" format="integer" />
+
+    </declare-styleable>
+
+</resources>
